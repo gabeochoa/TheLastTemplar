@@ -1,13 +1,9 @@
-![Catacomb Snatch](http://i.imgur.com/uSFJF.png)
+![TheLastTemplar]()
 
-## Links
 
-* [Original source from Mojang](http://assets.mojang.com/mojam/CatacombSnatch_src.zip)
-* [Website](http://catacombsnatch.net/)
-* [Forum](http://forum.catacombsnatch.net/)
-* [Minecraft Forum thread](http://www.minecraftforum.net/topic/1046349-the-catacomb-snatch-project-github)
-* [Player & developer wiki](https://github.com/Maescool/Catacomb-Snatch/wiki)
-* [Jenkins Build-Bot (Last releases can be found here)](http://ci.catacombsnatch.net/)
-* [Download last release](http://ci.catacombsnatch.net/job/Catacomb-Snatch/lastSuccessfulBuild/artifact/build/libs/Catacomb-Snatch-1.1.0-BETA.jar)
-* [Download last development build](http://ci.catacombsnatch.net/job/Catacomb-Snatch-Dev/lastSuccessfulBuild/artifact/build/libs/Catacomb-Snatch-1.1.1-SNAPSHOT.jar)
-* Chat with the developers on the [Webchat](http://webchat.freenode.net/?channels=catacomb-snatch) or irc.freenode.net #catacomb-snatch
+This is a game, a couple of friends and I created for our SEE Project
+in May-June 2012.
+
+It is about a Templar Knight in a world where a plague is turning people into zombies and he must stop it.
+
+The game is pretty bad, and there is a framerate problem... 
