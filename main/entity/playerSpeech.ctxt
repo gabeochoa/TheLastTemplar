@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=s\ r
+comment0.target=playerSpeech(java.lang.String,\ int)
+comment1.params=
+comment1.target=java.lang.String\ getSpeech()
+comment2.params=
+comment2.target=int\ getResponse()
+numComments=3

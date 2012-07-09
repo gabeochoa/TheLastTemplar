@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=h\ d\ X\ Y\ im
+comment0.target=NPC(int,\ int,\ int,\ int,\ java.awt.Image)
+comment1.params=i
+comment1.target=java.lang.String\ getDialougue(int)
+comment2.params=r\ c
+comment2.target=playerSpeech\ getPlayerSpeech(int,\ int)
+comment3.params=
+comment3.target=void\ move()
+numComments=4

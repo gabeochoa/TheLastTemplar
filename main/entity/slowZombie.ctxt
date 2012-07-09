@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=h\ d\ X\ Y\ im\ xS
+comment0.target=slowZombie(int,\ int,\ int,\ int,\ java.awt.Image,\ double)
+comment1.params=
+comment1.target=void\ move()
+comment2.params=a
+comment2.target=void\ changeXS(int)
+comment3.params=a
+comment3.target=void\ changeYS(int)
+numComments=4

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=A\ B
+comment0.target=double\ dist(java.awt.Point,\ java.awt.Point)
+comment1.params=A
+comment1.target=boolean\ checkLeft(java.awt.Point)
+comment2.params=A
+comment2.target=boolean\ checkRight(java.awt.Point)
+comment3.params=A
+comment3.target=boolean\ checkUp(java.awt.Point)
+comment4.params=A
+comment4.target=boolean\ checkDown(java.awt.Point)
+comment5.params=mx\ my\ x\ y\ w\ h
+comment5.target=boolean\ ifInBox(int,\ int,\ int,\ int,\ int,\ int)
+numComments=6

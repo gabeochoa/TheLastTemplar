@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=RPG()
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ run()
+comment3.params=g
+comment3.target=void\ paint(java.awt.Graphics)
+comment4.params=keys2\ mouse
+comment4.target=void\ handleKeysAndMouse(boolean[],\ int[])
+comment5.params=
+comment5.target=void\ initializeGame()
+comment5.text=\n\ This\ method\ runs\ at\ the\ start\ of\ the\ window\ creation,\ and\ sets\ up\ the\ game\ for\ the\ first\ time\n
+comment6.params=w\ h
+comment6.target=void\ updateDimensions(int,\ int)
+comment6.text=\n\ \ This\ allows\ for\ the\ window\ to\ be\ resizeable\ in\ the\ future\ if\ need\ be\ \n
+numComments=7

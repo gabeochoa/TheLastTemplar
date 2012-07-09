@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ActualGame()
+comment1.params=gr
+comment1.target=ActualGame(java.awt.Graphics)
+comment2.params=
+comment2.target=void\ newGame()
+comment3.params=name\ id
+comment3.target=void\ switchLevel(java.lang.String,\ int)
+comment4.params=keys
+comment4.target=void\ tick(boolean[])
+comment5.params=item
+comment5.target=void\ getLoot(entity.Item)
+comment6.params=player
+comment6.target=void\ win(entity.Player)
+comment7.params=player
+comment7.target=void\ lose(entity.Player)
+comment8.params=
+comment8.target=void\ initializeGame()
+numComments=9
