@@ -13,6 +13,7 @@ public class Art {
 	{
 		try{
 			//File im = new File(file);
+			file = file.trim();
 			if(file.contains("./images/"))
 			{
 				file = file.replace("./images/","");
